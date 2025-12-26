@@ -1,6 +1,3 @@
-# Password Generator Project
-# This program generates a strong random password using
-# alphabets, numbers, and special characters.
 
 # Step 1: Import required modules
 import string
